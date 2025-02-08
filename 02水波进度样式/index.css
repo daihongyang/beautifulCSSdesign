@@ -28,6 +28,7 @@ body {
     width: 50vmin;
     height: 50vmin;
     border-radius: 35%;
+    background-color: lightblue;
     transition: all 0.9s;
     animation: waterRotate 3s infinite linear;
 }
